@@ -32,4 +32,4 @@
   *  Research interests: machine learning and AI
 
 ### 🙌🏻 Contact me
-- [Telegram](@Daria_Dronddina)
+- Telegram @Daria_Dronddina
