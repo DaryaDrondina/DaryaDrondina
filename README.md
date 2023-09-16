@@ -2,17 +2,20 @@
 
 ### ✨ About me in 30 seconds ✨ 
 * 🎓 Education:
-  - Bachelor of "Business Information Systems"	
+  - Bachelor of Business Information Systems
+    
     Russian Presidential Academy of National Economy and Public Administration
-  - “Specialist in Data Science”
+  - Specialist in Data Science
+    
     Skillfactory.ru in cooperation 
     with the Moscow Institute of Physics and Technology
-  - “C++ Developer” 
+  - C++ Developer
+ 
     Skillfactory.ru
 
 ### 📚 Projects 📚
 
-* Click [here](https://github.com/DaryaDrondina?tab=repositories) 
+* Click [here](https://github.com/DaryaDrondina?tab=repositories) :wave:
 
 ### 💡 Main areas of expertise 💡
 - SQL, Python, C++ 
