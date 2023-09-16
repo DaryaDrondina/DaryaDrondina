@@ -2,7 +2,7 @@
 
 ### ✨ About me in 30 seconds ✨ 
 * 🎓 Education:
-  - Bachelor of Business Information Systems	
+  - Bachelor of "Business Information Systems"	
     Russian Presidential Academy of National Economy and Public Administration
   - “Specialist in Data Science”
     Skillfactory.ru in cooperation 
