@@ -12,7 +12,7 @@
 
 ### 📚 Projects 📚
 
-* Кликни [сюда](https://github.com/DaryaDrondina?tab=repositories) чтобы посмотреть мои проекты
+* Click [here](https://github.com/DaryaDrondina?tab=repositories) 
 
 ### 💡 Main areas of expertise 💡
 - SQL, Python, C++ 
