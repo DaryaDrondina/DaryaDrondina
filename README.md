@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi! 👋
 
-<!--
-**DaryaDrondina/DaryaDrondina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ About me in 30 seconds ✨ 
+* 🎓 Education:
+  - Bachelor of Business Information Systems	
+    Russian Presidential Academy of National Economy and Public Administration
+  - “Specialist in Data Science”
+    Skillfactory.ru in cooperation 
+    with the Moscow Institute of Physics and Technology
+  - “C++ Developer” 
+    Skillfactory.ru
 
-Here are some ideas to get you started:
+### 📚 Projects 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Кликни [сюда](https://github.com/DaryaDrondina?tab=repositories) чтобы посмотреть мои проекты
+
+### 💡 Main areas of expertise 💡
+- SQL, Python, C++ 
+- Skills: 
+    * Mathematical statistics;
+    * Data Preprocessing and Data Analysis;
+    * Machine Learning and Deep Learning;
+    * CV and NLP;
+    * Relational Databases;
+    * Dashboard Design and Development;
+    * Software Development;
+ 
+### ⚡️ Currently ⚡️
+  *  Research interests: machine learning and AI
+
+### 🙌🏻 Contact me
+- [Telegram](@Daria_Dronddina)
